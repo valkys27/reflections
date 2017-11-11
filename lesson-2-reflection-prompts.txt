@@ -6,8 +6,16 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+- staging area contains files which are instead of commit
+- allows commit more files to repository together
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+- check changes between working directory and staging area with commands git diff
+- add files with changes to staging area with command git add [name] for each
+- check changes between staging area and last commit with command git diff --stage
+- commit changes to repository with command git commit, write commit message and save it
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
