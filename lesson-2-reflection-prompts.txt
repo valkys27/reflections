@@ -20,7 +20,13 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+- for new experimental feature
+- for new languege version
+
 How do the diagrams help you visualize the branch structure?
+
+- find out which commits are included in branch
+- may see workflow of current branch and what work was add to master branch
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
