@@ -31,5 +31,15 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+ result is:
+ - common base of branches
+ - added changes of branches
+ - conflicting code
+
+ result isn't:
+ - removed changes from base 
+
+ - because we see exactly branch's path to ancestors and their commit messeges
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
