@@ -34,4 +34,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    - master would be functional in every time
+    - so we will make changes in a seperate branch
+    - we will push this separate branch to the GitHub
+    - we will send pull request to other from cooperaters
+    - he checks our changes and merge with master
